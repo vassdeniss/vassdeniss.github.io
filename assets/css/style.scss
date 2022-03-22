@@ -14,6 +14,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
     width: 6rem;
     height: 6rem;
     border-radius: 5%;
+    border: none;
     overflow: hidden;
     transform: translateZ(0);
     -webkit-transition: border-color 0.35s ease-in-out;
