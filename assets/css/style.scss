@@ -13,10 +13,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
     display: block;
     width: 6rem;
     height: 6rem;
-    border-radius: 5%;
-    border: none;
+    border-style: none;
+    border-radius: 1%;
     overflow: hidden;
-    transform: translateZ(0);
-    -webkit-transition: border-color 0.35s ease-in-out;
-    -moz-transition: border-color 0.35s ease-in-out;
-    transition: border-color 0.35s ease-in-out}
+}
