@@ -1,10 +1,11 @@
 ---
 title: SoftUni Education
+icon: fas fa-graduation-cap
 order: 4
 ---
 * Attendance: 03 July 2021 / Ongoing
 * Diploma: N/A
-* Credits: 54
+* Credits: 63
 * Average Software Engineering Grade: 6.00 / 6.00
 * Average Open Courses Grade: 6.00 / 6.00
 
@@ -42,11 +43,18 @@ order: 4
 [Code](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals)
 
 ![cs_ds_fund_front](/assets/img/cs_ds_fund_front.jpg){: width="370" height="370" .normal} 
-![cs_ds_fund_front](/assets/img/cs_ds_fund_back.jpg){: width="370" height="370" .normal}
+![cs_ds_fund_back](/assets/img/cs_ds_fund_back.jpg){: width="370" height="370" .normal}
 
 [Software University - C# OOP - 22 February 2022 / 09 April 2022](https://softuni.bg/certificates/details/131010/c54612b6)
 
 [Code](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop)
 
 ![cs_oop_front](/assets/img/cs_oop_front.jpg){: width="370" height="370" .normal} 
-![cs_oop_front](/assets/img/cs_oop_back.jpg){: width="370" height="370" .normal}
+![cs_oop_back](/assets/img/cs_oop_back.jpg){: width="370" height="370" .normal}
+
+[Software University - MS SQL - 17 May 2022 / 19 June 2022](https://softuni.bg/certificates/details/134968/6699df29)
+
+[Code](https://github.com/vassdeniss/software-university-courses/tree/master/mssql)
+
+![mssql_front](/assets/img/mssql_front.jpg){: width="370" height="370" .normal}
+![mssql_back](/assets/img/mssql_back.jpg){: width="370" height="370" .normal}
